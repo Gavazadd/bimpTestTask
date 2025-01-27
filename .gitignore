@@ -1,0 +1,13 @@
+.env
+
+*.log
+*.pid
+*.swp
+*.swo
+
+.vscode/
+.idea/
+*.iml
+
+dist/
+node_modules/
